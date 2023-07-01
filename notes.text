@@ -1,0 +1,33 @@
+1.overlay to make background shady
+flex-direction: column; // this is to make a text in the centre and next text will also come in the next line.
+centre mai cols banate waqt margin can be used amd align item cnetre can be used.
+display block text willl go down
+.By removing the display block it will move the text to the next line and the after we have use br tag for the text to move in to the next line.
+. margin 10px means 10 px from top
+. we will also write in the input box that it will be only for read only not for the input.and i that read only we can also write value which can be 0 in starting.
+. font size in input tag will do the customizaion in the iinsidde part. and font customizaion outside the input will be deal by col div // imp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+discription about ui pahle hamne ek main banaya hai uske andar ek overlay hai jo ki ek display flex box hai phir 4 div liye hai usme 4 input liye hai 
